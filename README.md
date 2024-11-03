@@ -11,7 +11,7 @@ This repository contains the code for `getgrass-bot`, a bot designed to establis
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/dante4rt/getgrass-bot.git
+   git clone https://github.com/stephenahmeed/getgrass-bot.git
    ```
 
 2. Navigate to the project directory:
